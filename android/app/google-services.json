@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1066987715485",
+    "project_id": "luxelocker-app",
+    "storage_bucket": "luxelocker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066987715485:android:d873cc10b94907f923cd74",
+        "android_client_info": {
+          "package_name": "com.luxelockerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066987715485-rd3k778ei6pi41fri6tkjqve1aoa0019.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzIh4Z3D1MUjBDqMr9jhEey8N2vRcnGi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066987715485-rd3k778ei6pi41fri6tkjqve1aoa0019.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066987715485-hln898gm1gfgr2nqhcgvvrrdtfaqf6ld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.luxelockerapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

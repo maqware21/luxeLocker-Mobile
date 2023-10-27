@@ -1,0 +1,6 @@
+{
+  "name": "luxelockerApp",
+  "displayName": "luxelockerApp",
+  "plugins": ["react-native-compressor"]
+
+}

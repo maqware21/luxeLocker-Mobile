@@ -1,0 +1,1 @@
+export const StripePublisherKey = process.env.STRIPE_API_KEY

@@ -1,0 +1,176 @@
+
+  {
+   "subtotalScreen":{
+     "title":"Subtotal",
+      "insurancePolicyHeading":"Insurance Policy",
+      "insurancePolicyDecription":"Would you like to purchase Luxelocker Insurance?",
+      "switchPrimary":"Yes",
+      "switchScondry":"No",
+      "insurancePrice":"Lorem Ipsum is simply dummy",
+      "checkHeading":"   Accept",
+      "termAndCondition":" Luxelocker Insurance Terms and Conditions",
+      "leaseRate":"Lease Rate",
+      "monthlyCost":"Maintenance Fee",
+      "addIncurancePolicy":"You Need to Add an Insurance Policy*",
+      "uploading":"Upload Insurance Policy",
+      "insuranceCost":"Insurance Cost",
+      "Confirm":"Confirm"
+   },
+   "signatureScreen":{
+      "heading":"Waiting For Signature",
+      "description":"Agreement on the contract may take some time. If assistance is needed please call 5555555",
+      "next":"Next",
+      "signedAgreementHeading":"Agreement Signed",
+      "detail":"Your contract has been successfully signed."
+   },
+   "setting":{
+      "title":"Settings",
+      "fullName":"Cameron Parry",
+      "email":"haidernuman14@gmail.com",
+      "settingWithFaceIdItems":
+      [
+         {
+         "name":"Personal Information",
+         "type":"personalInfo"
+      },
+      {
+         "name":"Change Password",
+         "type":"changePassword"
+      },
+      {
+         "name":"Payments",
+         "type":"payment"
+      },
+      {
+         "name":"Documents",
+         "type":"documents"
+      }, 
+      
+      {
+         "name":"Face ID",
+         "type":"faceId"
+      },
+      
+      
+      {
+         "name":"FAQ",
+         "type":"faq"
+      },{
+         "name":"Notification",
+         "type":"notification"
+      }
+      
+   ],
+   "settingWithTocuchIdItems":
+      [
+         {
+         "name":"Personal Information",
+         "type":"personalInfo"
+      },
+      {
+         "name":"Change Password",
+         "type":"changePassword"
+      },
+      {
+         "name":"Payments",
+         "type":"payment"
+      },
+      {
+         "name":"Documents",
+         "type":"documents"
+      }, 
+      
+      {
+         "name":"Touch ID",
+         "type":"touchId"
+      },
+      
+      
+      {
+         "name":"FAQ",
+         "type":"faq"
+      },{
+         "name":"Notification",
+         "type":"notification"
+      }
+      
+   ],
+   
+   
+    "settingVendrodWithTocuhId":[
+      {
+      
+         "name":"Personal Information",
+         "type":"personalInfo"
+      },
+      {
+         "name":"Change Password",
+         "type":"changePassword"
+      },
+    
+      {
+         "name":"Touch ID",
+         "type":"touchId"
+      }
+      ,{
+         "name":"FAQ",
+         "type":"faq"
+      }
+      ,{
+         "name":"Notification",
+         "type":"notification"
+      }
+    ],
+   "settingVenorWithFaceId":[{
+      "name":"Personal Information",
+      "type":"personalInfo"
+   },
+   {
+      "name":"Change Password",
+      "type":"changePassword"
+   },
+ 
+   {
+      "name":"Face ID",
+      "type":"faceId"
+   }
+   ,{
+      "name":"FAQ",
+      "type":"faq"
+   }
+   ,{
+      "name":"Notification",
+      "type":"notification"
+   }
+   
+]
+   },
+   "personalInfoEditScreen":{
+      "title":"Personal Information",
+      "firstName":"First Name",
+      "lastName":"Last Name",
+      "phome":"Phone",
+      "mailingAddress":"Mailing Address",
+      "email":"Email",
+      "selector":[
+         { "title": "T&C", "value": 0 },
+         { "title": "Privacy Policy", "value": 1 },
+         { "title": "Return Policy", "value": 2 },
+         { "title": "Reset all" }
+       ]
+   },
+   "changePasswordScreen":{
+      "title":"Change Password",
+      "currentPassword":"Current Password",
+      "newPassword":"New Password",
+      "confirmPassword":"Confirm Password"
+   },
+
+   "FilterScreen":{
+      "title":"Filters",
+      "rightText":"Reset",
+      "selectLength":"Select Length of the Unit"
+
+   }
+   
+}
