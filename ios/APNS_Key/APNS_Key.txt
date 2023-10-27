@@ -1,3 +1,0 @@
-Name:LuxeLocker APNS
-Key ID:RYHT32RKBP
-Services:Apple Push Notifications service (APNs)
